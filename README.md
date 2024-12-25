@@ -28,8 +28,8 @@ The API documentation is available [here](https://documenter.getpostman.com/view
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/multi-tenancy-saas.git
-   cd multi-tenant-saas
+   git clone https://github.com/youssef-k-tawfik/multi-tenancy-saas.git
+   cd multi-tenancy-saas
    ```
 
 2. Install dependencies:
@@ -38,7 +38,7 @@ The API documentation is available [here](https://documenter.getpostman.com/view
    npm install
    ```
 
-3. Start Prisma and generate the client:
+3. Generate prisma client:
 
    ```sh
    npx prisma generate
